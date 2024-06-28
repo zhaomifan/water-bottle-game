@@ -50,7 +50,7 @@ def show_bottles(bottles: List[Bottle]):
 if __name__ == "__main__":
     # 定义三个瓶子
     bottles = [Bottle(12, 12), Bottle(8), Bottle(5)]
-    target_water = 5
+    target_water = 6
     print("游戏开始")
     while True:
         print("》》》》》》XXXXXXX《《《《《《《")
